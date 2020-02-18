@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Split_The_Bill</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_tv_amount">Total amount</string>
+    <string name="str_tv_tip">Amount to tip</string>
+    <string name="str_tv_party">Size of party</string>
+    <string name="str_tilt_tip">Amount to tip</string>
+    <string name="str_tilt_amount">Total amount</string>
+    <string name="str_tilt_party">Size of party</string>
+    <string name="str_btn_split">Split</string>
+    <string name="str_lbl_result">Result</string>
+    <string name="str_amount">Total amount</string>
+    <string name="str_tip">Amount to tip</string>
+    <string name="str_party">Size of party</string>
+    <string name="str_tv_info">App is usefull for spliting the bill. It is Designed by Amin</string>
+    <string name="pref_payment">Favourite payment method</string>
+    <string name="pref_title_tip">Tip</string>
+    <string name="pref_text_tip">The amount you usually give as a tip.</string>
+</resources>

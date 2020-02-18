@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_payment">Favourite payment method>
+        <item>Bankcontact</item>
+        <item>Googlepay</item>
+        <item>Mastercard</item>
+        <item>Visa</item>
+        <item>Cash</item>
+
+    </string-array>
+</resources>
